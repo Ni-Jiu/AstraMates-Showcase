@@ -17,8 +17,3 @@ architecture.png     系统架构
 ```markdown
 ![群聊界面](screenshots/group-chat.png)
 ```
-
-注意：
-
-- 不要上传包含真实密钥、服务器地址、用户隐私的截图
-- 不要上传完整源码截图
