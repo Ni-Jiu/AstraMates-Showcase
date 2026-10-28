@@ -68,8 +68,6 @@ DJANGO_ALLOWED_HOSTS=
 DJANGO_CSRF_TRUSTED_ORIGINS=
 ```
 
-不要把真实值提交到 Git。
-
 ## 静态资源
 
 ```text
